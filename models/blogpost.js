@@ -42,4 +42,4 @@ Blogpost.init (
 
 
 
-module.exports = blogpost;
+module.exports = Blogpost;
