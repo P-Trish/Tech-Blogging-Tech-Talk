@@ -1,0 +1,20 @@
+[
+    {
+      "title":"Tech Bloggin' Tech Talkin'",
+      "content":"Let's talk about tech",
+      "date_created": "",
+      "user_id": "1"
+    },
+    {
+        "title":"JavaScript a Kindergartener Will Understand",
+        "content":"Let's talk about js in a way we can all understand!",
+        "date_created": "",
+        "user_id": "2"
+      },
+      {
+        "title":"MySQL or NoSQL",
+        "content":"Let's talk about the SQLs",
+        "date_created": "",
+        "user_id": "3"
+      }
+]
